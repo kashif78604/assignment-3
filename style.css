@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+*{
+    border: 0px;
+}
+.A{
+
+    text-align: center;
+    height: 50vh;
+    width: 100vw;
+}
+.B{
+    background-color: rgb(13, 174, 238);
+    height: 50vh;
+    width: 50vw;
+    float: left;
+}
+.C{
+    height: 50vh;
+    width: 50vw;
+    background-color:  aqua;
+    float: right;
+}
